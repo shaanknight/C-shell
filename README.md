@@ -26,6 +26,15 @@
 
 > Execute
 
-* to compile : make main
-* to run : ./sksh
-* to remove the .o files and sksh : make clean
+* to compile : 
+```sh
+make main
+```
+* to run : 
+```
+./sksh
+```
+* to remove the .o files and sksh : 
+```sh
+make clean
+```
